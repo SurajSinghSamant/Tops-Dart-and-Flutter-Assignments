@@ -1,0 +1,19 @@
+45. Difference between object oriented and object based language.
+
+Ans. * Object-oriented language :
+ 
+i. Object-oriented language supports all the features of OOPs.
+
+ii. Object-oriented language doesn't has an in-built object.
+
+iii. Object-oriented languages are C++, C#, Java etc.
+
+-----------------------------------------------------------------------------------------------------------------
+
+* Object-based language : 
+
+i. Object-based language doesn't support all the features of OOPs like Polymorphism and Inheritance.
+
+ii. Object-based language has an in-built object like javascript has a window object.
+
+iii. Object-based languages are Javascript, VB, etc.

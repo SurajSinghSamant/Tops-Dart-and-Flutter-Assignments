@@ -1,0 +1,7 @@
+37. What the order is of extends and implements keyword on Dart class declaration?
+
+Ans. In Dart, when declaring a class, the order of the extends and implements keywords is important. 
+The extends keyword should come before the implements keyword. For example, 
+class Classname extends ParentClass implements Propertyname{
+           
+}

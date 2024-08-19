@@ -1,0 +1,18 @@
+23. Difference between inheritance and encapsulation. Difference between inheritance and abstraction.
+
+Ans. * Inheritance :
+
+Inheritance is a fundamental concept in OOPS(object-oriented programminig) that allows one class to inherit the
+properties and methods from another class. The class which inherites the properties and methods from other class is
+called child class, and the class which provides the properties and methods is called the parent class.
+
+* Encapsulation : 
+
+Encapsulation is a concept in object-oriented programming (OOP) that bundles data and methods into units that are easy
+to use. It can be used to restrict direct access to some components of an object, such as hiding data members and methods.
+This can help to increase control over data, protect information from being modified, and prevent errors.
+
+* Abstraction :
+
+Abstraction is the concept of hiding the complex implementation details and showing only the essential features of an object.
+It allows a programmer to work with a simplified interface while hiding the complex underlying code.

@@ -1,0 +1,6 @@
+44. Can a superclass access subclass member?
+
+Ans. A superclass cannot directly access the members (fields, methods, etc.) of its subclass. The relationship
+in inheritance is such that the subclass inherits from the superclass, not the other way around. This means that
+while a subclass can access and override the members of its superclass, the superclass does not have knowledge of
+the members defined in its subclasses.

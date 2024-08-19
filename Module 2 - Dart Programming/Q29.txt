@@ -1,0 +1,4 @@
+29. What will happen if a class implements two interfaces and they both have a method with same name and signature?
+
+Ans. In Dart, if a class implements two interfaces that both have a method with the same name and signature, the class
+must provide a single implementation for that method. This implementation will satisfy the requirements of both interfaces.

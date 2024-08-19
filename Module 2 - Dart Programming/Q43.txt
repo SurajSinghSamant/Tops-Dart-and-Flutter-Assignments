@@ -1,0 +1,8 @@
+43. Can a subclass static method hide superclass instance method?
+
+Ans. A subclass static method cannot hide a superclass instance method. Static methods belong to the class itself
+rather than to instances of the class, while instance methods are tied to the instances. Therefore, they operate in 
+different scopes and do not interfere with each other. However, if a subclass defines a static method with the same 
+name as an instance method in the superclass, it will not hide or override the instance method. Instead, both methods
+will coexist, and their usage will depend on the context (whether the method is called on the class itself or an instance
+of the class).

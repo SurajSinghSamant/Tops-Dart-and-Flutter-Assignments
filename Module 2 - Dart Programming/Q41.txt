@@ -1,0 +1,8 @@
+41. What happens when a class implements two interfaces and both declare field (variable) with same name?
+
+Ans. When a class in Dart implements two interfaces that both declare a field (variable) with the same name, it can lead to ambiguity.
+Dart does not allow a class to have two fields with the same name, even if they come from different interfaces. This will result in
+a compile-time error.
+
+To resolve this, we can use getter and setter methods instead of fields in the interfaces. This way, the implementing class can
+provide its own implementation for these methods, avoiding the conflict.

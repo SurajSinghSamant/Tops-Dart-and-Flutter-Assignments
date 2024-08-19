@@ -1,0 +1,6 @@
+31. What happens if the parent and the child class have a field with same identifier? Are constructors and initializers
+also inherited to sub classes ?
+
+Ans. If both the parent and child classes have a field with the same identifier, the field in the child class will hide
+the field in the parent class. This means that when you access the field from an instance of the child class, you will
+get the value of the field defined in the child class, not the parent class.

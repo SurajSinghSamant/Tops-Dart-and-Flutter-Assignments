@@ -1,0 +1,5 @@
+27. Can a class implement more than one interface? Can a class extend more than one class in Dart?
+
+Ans. Yes, a class can implement more than one interface. This is a common feature in many programming languages,
+including Dart. Implementing multiple interfaces allows a class to inherit the abstract methods from multiple
+sources, providing a way to achieve kind of multiple inheritance.

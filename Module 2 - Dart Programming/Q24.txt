@@ -1,0 +1,13 @@
+24. Difference between inheritance and polymorphism.
+
+Ans. * Inheritance :
+
+Inheritance is a fundamental concept in OOPS(object-oriented programminig) that allows one class to inherit the
+properties and methods from another class. The class which inherites the properties and methods from other class is
+called child class, and the class which provides the properties and methods is called the parent class.
+
+* Polymorphism :
+
+Polymorphism is a concept in object-oriented programming (OOP) that allows objects of different classes to be treated
+as objects of a common superclass. The term comes from Greek words meaning "many forms." Polymorphism enables a single 
+interface to represent different underlying forms (data types).

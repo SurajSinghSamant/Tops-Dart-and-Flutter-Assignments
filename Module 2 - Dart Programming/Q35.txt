@@ -1,0 +1,4 @@
+35. How do you override a private method in Dart?
+
+Ans. In Dart, we cannot override a private method from another class, especially if it’s in a different library.
+Private methods in Dart are prefixed with an underscore (_) and are only accessible within the same library.

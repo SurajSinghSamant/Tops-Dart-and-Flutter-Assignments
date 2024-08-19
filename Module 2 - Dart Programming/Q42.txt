@@ -1,0 +1,6 @@
+42. Can a subclass instance method override a superclass static method?
+
+Ans. No, a subclass instance method cannot override a superclass static method. In object-oriented programming,
+static methods belong to the class itself rather than any instance of the class. Therefore, they cannot be overridden
+by instance methods in a subclass. Instead, if a subclass defines a static method with the same signature as a static
+method in the superclass, it hides the superclass’s static method rather than overriding it.

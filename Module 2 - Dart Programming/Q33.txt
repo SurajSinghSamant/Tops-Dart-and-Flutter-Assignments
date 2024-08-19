@@ -1,0 +1,6 @@
+33. How do you implement multiple inheritance in Dart?
+
+Ans. Dart doesn’t support multiple inheritance directly, meaning a class cannot inherit from more
+than one class. However, we can achieve similar functionality using mixins. Mixins allow us to reuse
+a class’s code in multiple class hierarchies, providing a way to add functionality to classes without
+using inheritance.

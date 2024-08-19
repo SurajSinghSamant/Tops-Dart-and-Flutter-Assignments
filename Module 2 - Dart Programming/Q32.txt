@@ -1,0 +1,4 @@
+32. How do you restrict a member of a class from inheriting by its sub classes?
+
+Ans. We can restrict a member of a class from being inherited by its subclasses by 
+using the private access modifier.

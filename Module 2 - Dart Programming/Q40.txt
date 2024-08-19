@@ -1,0 +1,17 @@
+40. Difference between method overriding and overloading in Dart.
+
+Ans. * Method Overriding :  Method overriding occurs when a subclass provides a specific implementation for a method
+that is already defined in its superclass.
+
+Purpose : It allows a subclass to provide a specific behavior for a method that is already defined in its superclass.
+
+Usage : Used to implement polymorphism, allowing a subclass to define behavior specific to its type.
+
+------------------------------------------------------------------------------------------------------------------------------------
+
+* Method Overloading : Method overloading occurs when multiple methods in the same class have the same name but different
+parameters (different type or number of parameters).
+
+Purpose : It allows a class to have multiple methods with the same name but different functionalities based on the parameters.
+
+Usage : Used to increase the readability of the program by allowing the same method name to perform different tasks based on parameters.

@@ -1,0 +1,11 @@
+21. What is inheritance? 
+
+Ans. Inheritance is a fundamental concept in OOPS(object-oriented programminig) that allows one class to inherit the
+properties and methods from another class. The class which inherites the properties and methods from other class is
+called child class, and the class which provides the properties and methods is called the parent class.
+
+Inheritance has different types :-
+i. Single-level Inheritance.
+ii. Multi-level Inheritance.
+iii. Hiearchial Inheritance.
+iv. Hybrid Inheritance.
