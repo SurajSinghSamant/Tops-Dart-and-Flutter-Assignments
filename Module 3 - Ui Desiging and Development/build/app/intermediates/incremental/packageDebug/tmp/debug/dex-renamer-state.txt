@@ -1,0 +1,10 @@
+#Wed Sep 25 18:32:21 IST 2024
+base.0=/Users/surajsinghsamant/Documents/ASSIGNMENTS/Technical/Flutter/Module 3 - UI Designing And Development/assignment3/build/app/intermediates/dex/debug/mergeExtDexDebug/classes.dex
+base.1=/Users/surajsinghsamant/Documents/ASSIGNMENTS/Technical/Flutter/Module 3 - UI Designing And Development/assignment3/build/app/intermediates/dex/debug/mergeProjectDexDebug/0/classes.dex
+base.2=/Users/surajsinghsamant/Documents/ASSIGNMENTS/Technical/Flutter/Module 3 - UI Designing And Development/assignment3/build/app/intermediates/dex/debug/mergeProjectDexDebug/1/classes.dex
+path.0=classes.dex
+path.1=0/classes.dex
+path.2=1/classes.dex
+renamed.0=classes.dex
+renamed.1=classes2.dex
+renamed.2=classes3.dex
